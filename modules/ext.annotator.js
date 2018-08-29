@@ -22,9 +22,6 @@ var installed = false;
                             // if module is loaded message will pop up
                             mw.notify(mw.message('sia-welcome-message'));
                         });
-                    
-
-
             
         }
 
